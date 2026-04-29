@@ -25,7 +25,7 @@ docker run -p 5000:5000 flask-app
 ![Pipeline](images/pipeline.png)
 
 ### DockerHub Image
-![DockerHub](images/dockerhub.png)
+![DockerHub](images/docker.png)
 
 ## 🎯 Learning
 CI/CD, Docker, automation
